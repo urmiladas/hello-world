@@ -19,6 +19,10 @@ I volunteered at the Flushing Central Leo's Club from 2019 to 2021, I was treasu
 
 In high school I had the opportunity to become a volunteer and teacher to students for a middle school in the neighborhood, PS 130 Hernado De Soto. I worked with 25 elementary school students, more specifically 1st graders, and taught them for the day. I used the curriculum that Junior Achievement provided for us, we taught them about community. I wanted them to have a memorable experience because when I was in elementary and middle school people from Junior Achievement also came to my school to teach us. Teaching the students was eye opening for me. 
 
+### Skills
+
+As for my computer skills, I have learned HTML, CSS, and C++, but I am still learning C++ currently and will be taking it next semester as well. As for languages that are not computer related, I am conversational in Bengali, I grew up learning this language and still speak in Bengali with my parents. I am also intermediate in Chinese, I took Mandarin in high school for 4 years. 
+
 ## Contact Me
 
 Email: udas1@fordham.edu
