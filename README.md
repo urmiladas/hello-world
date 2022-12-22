@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>My page</title>
+    <title>Welcome</title>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
