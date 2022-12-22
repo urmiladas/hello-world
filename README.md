@@ -11,3 +11,10 @@ I worked here during the summer of 2022, I got this job through SYEP which is th
 ### Flushing Central Leo's Club
 ![leos club](https://user-images.githubusercontent.com/117239538/209074829-a2b50fce-c928-4c4f-a7b1-613b53f6c4bc.png)
 
+I volunteered at the Flushing Central Leo's Club from 2019 to 2021, I was treasurer the last year I was there as well. The Leo's Club is under the Lion's which is more well known, the Leo's is for the younger students. The organization does a lot for the community in Flushing. We would host events and the volunteers would make sure everthing ran smoothly. 
+
+### Junior Achievement 
+
+![junior achievement]
+
+In high school I had the opportunity to become a volunteer and teacher to students for a middle school in the neighborhood, PS 130 Hernado De Soto. 
