@@ -33,8 +33,8 @@ theme_config:
   show_tags: true # show tags in a blog posts
   # options for "home" page
   home:
-    title_projects: Contact Me
-    title_misc_list: Phone number 
+    title_projects: 
+    title_misc_list:  
     title_blog: 
     title_old_projects: 
 
