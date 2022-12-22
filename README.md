@@ -8,3 +8,4 @@
     <h2>Introduction</h2>
   </body>
 </html>
+theme: minimal
