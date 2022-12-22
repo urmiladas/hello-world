@@ -9,13 +9,13 @@ I am born and raised in Queens, I currently reside in Jackson Heights where I co
 I worked here during the summer of 2022, I got this job through SYEP which is the Summer Youth Employment Program. This was my first job that was in person and taught me many things. It taught me how to approach and deal with difficult situations. We had many customers that were difficult or would get upset and everyone had to excersise patience and tolerance. 
 
 ### Flushing Central Leo's Club
-![leos club](https://user-images.githubusercontent.com/117239538/209074829-a2b50fce-c928-4c4f-a7b1-613b53f6c4bc.png)
+![leos club](lions.jpeg)
 
 I volunteered at the Flushing Central Leo's Club from 2019 to 2021, I was treasurer the last year I was there as well. The Leo's Club is under the Lion's which is more well known, the Leo's is for the younger students. The organization does a lot for the community in Flushing. We would host events and the volunteers would make sure everthing ran smoothly. 
 
 ### Junior Achievement 
 
-![junior achievement]
+![junior achievement]()
 
 In high school I had the opportunity to become a volunteer and teacher to students for a middle school in the neighborhood, PS 130 Hernado De Soto. I worked with 25 elementary school students, more specifically 1st graders, and taught them for the day. I used the curriculum that Junior Achievement provided for us, we taught them about community. I wanted them to have a memorable experience because when I was in elementary and middle school people from Junior Achievement also came to my school to teach us. Teaching the students was eye opening for me. 
 
