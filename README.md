@@ -1,10 +1,10 @@
 ## Background 
 
-### I am born and raised in Queens, I currently reside in Jackson Heights where I commute to school. I went to a high school in the Lower East Side and there I first learned about computer science. It was right before 9th grade started and there was a program and I learned HTML and CSS. This wasn't always my interest though, I started college as a Natural Science major on the pre-health track. I have tried out many things by volunteering for this reason.
+I am born and raised in Queens, I currently reside in Jackson Heights where I commute to school. I went to a high school in the Lower East Side and there I first learned about computer science. It was right before 9th grade started and there was a program and I learned HTML and CSS. This wasn't always my interest though, I started college as a Natural Science major on the pre-health track. I have tried out many things by volunteering for this reason.
 
 ## Posts
 ### Hyatt Flushing Hotel
 ![hyatt hotel] (https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2014/09/21/1547/NYCZF-P002-Exterior-Street.jpg/NYCZF-P002-Exterior-Street.16x9.jpg)
 
-#### I worked here during the summer of 2022, I got this job through SYEP which is the Summer Youth Employment Program.
+I worked here during the summer of 2022, I got this job through SYEP which is the Summer Youth Employment Program.
 
