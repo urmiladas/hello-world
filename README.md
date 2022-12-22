@@ -4,7 +4,7 @@ I am born and raised in Queens, I currently reside in Jackson Heights where I co
 
 ## Posts
 ### Hyatt Flushing Hotel
-![hyatt hotel] (https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2014/09/21/1547/NYCZF-P002-Exterior-Street.jpg/NYCZF-P002-Exterior-Street.16x9.jpg)
+![hyatt hotel] (image.png)
 
 I worked here during the summer of 2022, I got this job through SYEP which is the Summer Youth Employment Program.
 
