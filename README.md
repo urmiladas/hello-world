@@ -9,4 +9,4 @@ I am born and raised in Queens, I currently reside in Jackson Heights where I co
 I worked here during the summer of 2022, I got this job through SYEP which is the Summer Youth Employment Program. This was my first job that was in person and taught me many things. It taught me how to approach and deal with difficult situations. We had many customers that were difficult or would get upset and everyone had to excersise patience and tolerance. 
 
 ### Flushing Central Leo's Club
-![leos club]()
+![leos club](![image](https://user-images.githubusercontent.com/117239538/209074829-a2b50fce-c928-4c4f-a7b1-613b53f6c4bc.png)
